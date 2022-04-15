@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amazon-challenge/static/css/main.70208a0e.css",
+    "main.js": "/amazon-challenge/static/js/main.2f9f2b78.js",
+    "static/js/787.ebd7646a.chunk.js": "/amazon-challenge/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/amazon-challenge/index.html",
+    "main.70208a0e.css.map": "/amazon-challenge/static/css/main.70208a0e.css.map",
+    "main.2f9f2b78.js.map": "/amazon-challenge/static/js/main.2f9f2b78.js.map",
+    "787.ebd7646a.chunk.js.map": "/amazon-challenge/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70208a0e.css",
+    "static/js/main.2f9f2b78.js"
+  ]
+}
